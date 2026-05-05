@@ -95,6 +95,7 @@ Further contributions to SpEC were made by
 <span class="contrib-name">Ian Hinder</span>,
 <span class="contrib-name">Jeff Kaplan</span>,
 <span class="contrib-name">Rez Khan</span>,
+<span class="contrib-name">Taylor Knapp</span>,
 <span class="contrib-name">Prayush Kumar</span>,
 <span class="contrib-name">Adam Lewis</span>,
 <span class="contrib-name">François Limousin</span>,
